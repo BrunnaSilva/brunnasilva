@@ -1,8 +1,8 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruna Silva</h1>
 <h3 align="center">An Information Technology Student</h3>
 <p><p>
-  
-- 👨‍💻 I'm currently study on Information Systems Bachelor Degree at Federal University of Sergipe
+ 
+- 🎓 Bachelor's degree in Information Systems
 
 - 🔭 I’m currently working on [Popcode Mobile](https://github.com/PopcodeMobile)
 
