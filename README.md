@@ -4,7 +4,7 @@
  
 - 🎓 Bachelor's degree in Information Systems
 
-- 🔭 I’m currently working on [Popcode Mobile](https://github.com/PopcodeMobile)
+- 🔭 I’m currently working on [Stone](https://www.stone.com.br/)
 
 - 📫 How to reach me **bruna.silva@dcomp.ufs.br**
 
