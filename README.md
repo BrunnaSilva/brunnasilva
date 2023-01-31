@@ -1,12 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruna Silva</h1>
-<h3 align="center">An Information Technology Student</h3>
 <p><p>
  
-- 🎓 Bachelor's degree in Information Systems
+- 🎓 Bachelor's degree in Information Systems;
 
-- 🔭 I’m currently working on [Stone](https://www.stone.com.br/)
+- 🔭 I’m currently working on [Stone](https://www.stone.com.br/);
 
-- 📫 How to reach me **bruna.silva@dcomp.ufs.br**
+- 📫 How to reach me **bruna.silva@dcomp.ufs.br**;
 
 
 <p align="center">
