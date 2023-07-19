@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruna Silva</h1>
+<h1 align="center">Hi dear, I'm Bruna Silva</h1>
 <p><p>
  
 - 🎓 Bachelor's degree in Information Systems;
